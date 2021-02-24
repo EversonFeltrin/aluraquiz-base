@@ -30,7 +30,7 @@ export const QuizContainer = styled.div`
 		padding: 15px;
 	}
 `;
-//teste
+
 export default function Home() {
 	return (
 		<QuizBackground backgroundImage={db.bg} >
